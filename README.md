@@ -1,1 +1,3 @@
 # sparcs-newbie-seminar
+Hello!
+
